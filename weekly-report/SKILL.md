@@ -1,6 +1,10 @@
 ---
 name: weekly-report
 description: 한 주 동안의 메모, 할 일 목록, 일정 기록을 주간보고 초안(이번 주 한 일, 다음 주 계획, 이슈와 요청)으로 정리합니다. 사용자가 주간보고, 주간 업무 보고, 금요일 보고서, 이번 주 한 일 정리를 요청할 때 씁니다. 회사 양식이 주어지면 그 칸에 맞춥니다.
+license: MIT
+metadata:
+  category: documents
+  locale: ko-KR
 ---
 
 # 한 주 메모 → 주간보고 초안

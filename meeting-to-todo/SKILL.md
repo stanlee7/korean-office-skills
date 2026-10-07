@@ -1,6 +1,10 @@
 ---
 name: meeting-to-todo
 description: 회의 메모, 회의록, 녹취 정리본을 할 일 표(할 일, 담당, 기한, 근거 문장)와 결정 사항 3줄로 바꿉니다. 사용자가 회의 메모를 붙여 넣고 할 일 정리, 액션 아이템, 회의록 요약, 누가 뭘 언제까지 하는지 정리를 요청할 때 씁니다.
+license: MIT
+metadata:
+  category: productivity
+  locale: ko-KR
 ---
 
 # 회의 메모 → 할 일 표

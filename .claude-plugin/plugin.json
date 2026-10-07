@@ -1,0 +1,21 @@
+{
+  "name": "korean-office-skills",
+  "description": "한국 사무실 문서 문화에 맞춘 무료 업무 스킬 7개: 회의록 할 일 표, 주간보고, 개조식 보고서, 품의서, 공문 어투, 곤란한 메일 답장, AI 입력 전 개인정보 가리기",
+  "version": "1.1.0",
+  "author": {
+    "name": "stanlee7"
+  },
+  "homepage": "https://github.com/stanlee7/korean-office-skills",
+  "repository": "https://github.com/stanlee7/korean-office-skills",
+  "license": "MIT",
+  "keywords": ["korean", "office", "report", "gongmun", "email", "privacy"],
+  "skills": [
+    "./meeting-to-todo",
+    "./weekly-report",
+    "./report-gaejosik",
+    "./pumui-draft",
+    "./gongmun-tone",
+    "./email-reply-kr",
+    "./pii-mask-before-ai"
+  ]
+}
